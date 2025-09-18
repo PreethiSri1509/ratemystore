@@ -1,4 +1,4 @@
-#Steps 
+Steps:
 npm install in ratemystore-main
 cd backend
 npm install
