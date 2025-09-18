@@ -1,7 +1,11 @@
 Steps:
+
 npm install in ratemystore-main
+
 cd backend
+
 npm install
+
 node server.js (To run the server)
 
 Open in new Window the and use the command
